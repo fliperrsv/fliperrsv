@@ -1,16 +1,16 @@
-## Hi there 👋
+# Сергей Резунков
 
-<!--
-**fliperrsv/fliperrsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю сайты-одностраничники и автоматизацию на Python.
+Работаю через Авито: договор, чек, показываю макет до предоплаты.
 
-Here are some ideas to get you started:
+## Живые проекты (можно открыть и пощупать)
+- 🌦 [Weatherly 2.0](https://fliperrsv.github.io/weather-app/) — погодное приложение: карта осадков, график температуры, тёмная тема
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что я делаю
+- Лендинги и сайты-визитки под ключ (HTML/CSS/JS)
+- Скрипты, парсеры и автоматизация на Python
+- Формы заявок: почта, Telegram-бот
+
+## Контакты
+Telegram: @fliperrsv1
+Почта: fliperrsv@yandex.ru
